@@ -77,6 +77,12 @@ math-modeling-labs/
 
 ---
 
+## 📄 Лицензия
+Распространяется под лицензией MIT.
+См. файл [LICENSE](https://github.com/arushinofu/math-modeling-labs/blob/main/LICENSE) для подробностей.
+
+---
+
 ## 📞 Контакты
 
 | | |
