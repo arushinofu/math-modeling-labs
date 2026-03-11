@@ -1,4 +1,4 @@
-# 📐 Mathematical Computer Modeling Labs
+# 📊 Math Modeling Labs Project
 
 [![Status](https://img.shields.io/badge/статус-Учебный-2a9d8f)](https://github.com/topics/arh-education)
 [![License](https://img.shields.io/badge/лицензия-MIT-blue.svg)](LICENSE)
